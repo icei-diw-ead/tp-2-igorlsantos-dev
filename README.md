@@ -2,9 +2,11 @@
 # Trabalho Prático - Semanas 3 e 4
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Igor Luiz Santos De Lima 
+- Matricula;903191
 
 ## Print da tela da página criada (Curriculum Vitae)
+![Imagem 1](imagem1.png)
 
+![Imagem 2](imagem2.png)
 `<Coloque aqui o print da tela do Curriculum Vitae>`
